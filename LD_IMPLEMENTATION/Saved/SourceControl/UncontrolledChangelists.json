@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/cleme/Documents/Pro/ENJMIN/JMIN-M2-LD-IMPLEMENTATION/LD_IMPLEMENTATION/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/Users/cleme/Documents/Pro/ENJMIN/JMIN-M2-LD-IMPLEMENTATION/LD_IMPLEMENTATION/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/cleme/Documents/Pro/ENJMIN/JMIN-M2-LD-IMPLEMENTATION/LD_IMPLEMENTATION/Content/FirstPerson/Input/Actions/IA_Crouch.uasset",
+				"C:/Users/cleme/Documents/Pro/ENJMIN/JMIN-M2-LD-IMPLEMENTATION/LD_IMPLEMENTATION/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/Users/cleme/Documents/Pro/ENJMIN/JMIN-M2-LD-IMPLEMENTATION/LD_IMPLEMENTATION/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/cleme/Documents/Pro/ENJMIN/JMIN-M2-LD-IMPLEMENTATION/LD_IMPLEMENTATION/Content/FirstPerson/Input/Actions/IA_Uncrouch.uasset",
+				"C:/Users/cleme/Documents/Pro/ENJMIN/JMIN-M2-LD-IMPLEMENTATION/LD_IMPLEMENTATION/Content/UI/HUD.uasset",
+				"C:/Users/cleme/Documents/Pro/ENJMIN/JMIN-M2-LD-IMPLEMENTATION/LD_IMPLEMENTATION/Content/UI/WB_HUD.uasset"
+			]
+		}
+	]
+}
