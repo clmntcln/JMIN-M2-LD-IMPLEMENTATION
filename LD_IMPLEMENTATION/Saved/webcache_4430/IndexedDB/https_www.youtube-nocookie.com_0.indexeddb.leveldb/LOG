@@ -1,0 +1,6 @@
+2023/07/17-14:46:57.110 2e6c Creating DB E:/Cours_Enjmin/JMIN-M2-LD-IMPLEMENTATION/LD_IMPLEMENTATION/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2023/07/17-14:46:58.207 2e6c Reusing MANIFEST E:/Cours_Enjmin/JMIN-M2-LD-IMPLEMENTATION/LD_IMPLEMENTATION/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/17-18:45:00.588 187c Level-0 table #5: started
+2023/07/17-18:45:00.654 187c Level-0 table #5: 1211 bytes OK
+2023/07/17-18:45:00.690 187c Delete type=0 #3
+2023/07/17-18:45:00.690 187c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
