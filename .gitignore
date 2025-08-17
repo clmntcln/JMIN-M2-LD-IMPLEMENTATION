@@ -48,6 +48,7 @@ LD_IMPLEMENTATION/SourceArt/**/*.tga
 # Binary Files
 LD_IMPLEMENTATION/Binaries/*
 LD_IMPLEMENTATION/Plugins/*/Binaries/*
+!LD_IMPLEMENTATION/Plugins/Teleporta08261ba1255V1/Binaries/*
 
 # Builds
 LD_IMPLEMENTATION/Build/*
@@ -69,6 +70,7 @@ LD_IMPLEMENTATION/Saved/
 # Compiled source files for the engine to use
 LD_IMPLEMENTATION/Intermediate/
 LD_IMPLEMENTATION/Plugins/*/Intermediate/*
+!LD_IMPLEMENTATION/Plugins/Teleporta08261ba1255V1/Intermediate/*
 
 # Cache files for the editor to use
 LD_IMPLEMENTATION/DerivedDataCache/*
