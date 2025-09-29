@@ -11,4 +11,4 @@
 *.xcf filter=lfs diff=lfs merge=lfs -text
 *.jpg filter=lfs diff=lfs merge=lfs -text
 
-/LD_IMPLEMENTATION/Content/StarterContent/  !filter !diff !merge text 
+/LD_IMPLEMENTATION/Content/StarterContent/*  !filter !diff !merge text 
